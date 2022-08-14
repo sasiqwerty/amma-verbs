@@ -1,41 +1,166 @@
-﻿Set Z
-                                
-Bet cast cut hit hurt put set shut spread telecast broadcast burst cost let                
-
-
-Set 1 
-
-
-Borrow advance affect admire act accommodate abscond attack argue arrive appoint aim arrange advise appear admit accept agree announce ask
-Set 2
-Believe blame bother call cancel consider change cheat criticise cry capture carry collect convert continue convey clash calculate clarify challenge communicate
-Set 3
-Close count chase dispatch depend dismiss depart delay demand discuss desire dash deliver        decrease divide drown expect enjoy enquire         
-
-
-Set 4                        
-        
-Instruct invent increase insist interfere interrupt introduce interest impress inform hesitate happen help guess guide gather follow fine frighten fear frame float fail form
-Set 5
-
-
-Present play purchase perform prove pass owe mourn neglect manufacture murmur move lecture look lift listen love like kidnap kill join invite jump
-
-
-Set 6
-
-
-Release reject require remind release reflect recall ridicule report remark remain return refuse quarrel possess practise place punish prevent permit push pull
-
-
-Set 7
-
-
-Trust treat temp try travel transfer turn sympathise step surprise scold select stop search seize suffer suspect support 
-
-
-Set 8
-suggest spoil store remind require reject
-
-
-Train threaten use vote vex verify want walk waste warn worry yawn zip
+﻿borrow
+advance
+affect
+admire
+act
+accommodate
+abscond
+attack
+argue
+arrive
+appoint
+aim
+arrange
+advise
+appear
+admit
+accept
+agree
+announce
+ask
+Believe
+blame
+bother
+call
+cancel
+consider
+change
+cheat
+criticise
+cry
+capture
+carry
+collect
+convert
+continue
+convey
+clash
+calculate
+clarify
+challenge
+communicate
+Close
+count
+chase
+dispatch
+depend
+dismiss
+depart
+delay
+demand
+discuss
+desire
+dash
+deliver
+decrease
+divide
+drown
+expect
+enjoy
+enquire
+Instruct
+invent
+increase
+insist
+interfere
+interrupt
+introduce
+interest
+impress
+inform
+hesitate
+happen
+help
+guess
+guide
+gather
+follow
+fine
+frighten
+fear
+frame
+float
+fail
+form
+Present
+play
+purchase
+perform
+prove
+pass
+owe
+mourn
+neglect
+manufacture
+murmur
+move
+lecture
+look
+lift
+listen
+love
+like
+kidnap
+kill
+join
+invite
+jump
+Release
+reject
+require
+remind
+release
+reflect
+recall
+ridicule
+report
+remark
+remain
+return
+refuse
+quarrel
+possess
+practise
+place
+punish
+prevent
+permit
+push
+pull
+Trust
+treat
+temp
+try
+travel
+transfer
+turn
+sympathise
+step
+surprise
+scold
+select
+stop
+search
+seize
+suffer
+suspect
+support
+suggest
+spoil
+store
+remind
+require
+reject
+Train
+threaten
+use
+vote
+vex
+verify
+want
+walk
+waste
+warn
+worry
+yawn
+zip

@@ -1,0 +1,14 @@
+bet
+cast
+cut
+hit
+hurt
+put
+set
+shut
+spread
+telecast
+broadcast
+burst
+cost
+let
