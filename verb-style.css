@@ -5,4 +5,21 @@ body {
   transform: translate(-50%, -50%);
   margin: 0;
   font-size: 3.5rem;
+  background-color: rgb(127, 199, 199);
+}
+button {
+  border-radius: 0.25em;
+  text-align: center;
+  font-size: 0.5em;
+  background-color: rgba(177, 31, 31, 0.158);
+  border: 0;
+  padding: 0.25em;
+  margin: 0.75em;
+  border: none;
+}
+.verb-div {
+  background-color: rgba(0, 0, 0, 0.05);
+  padding: 0.15em;
+  margin: 0.25em;
+  border-radius: 0.15em;
 }
